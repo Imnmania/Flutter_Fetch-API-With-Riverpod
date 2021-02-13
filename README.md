@@ -1,4 +1,17 @@
-# riverpod_fetchapi
+# Flutter Fetch API with RiverPod
+
+#### Screenshot:
+
+<p align="center">
+<img src="https://i.imgur.com/AWIcDXo.png" alt="Screenshot" width="450">
+</p>
+
+#### API Used:
+* https://jsonplaceholder.typicode.com/photos
+
+#### Dependencies:
+* flutter_riverpod: any
+* http: any
 
 A new Flutter project.
 
