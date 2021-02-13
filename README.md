@@ -13,7 +13,6 @@
 * flutter_riverpod: any
 * http: any
 
-A new Flutter project.
 
 ## Getting Started
 
